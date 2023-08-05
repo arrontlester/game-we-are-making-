@@ -286,13 +286,13 @@ QualitySettings:
     customRenderPipeline: {fileID: 0}
     terrainQualityOverrides: 254
     terrainPixelError: 1
-    terrainDetailDensityScale: 0.183
-    terrainBasemapDistance: 7153
-    terrainDetailDistance: 157
-    terrainTreeDistance: 874
-    terrainBillboardStart: 315
-    terrainFadeLength: 33.4
-    terrainMaxTrees: 1592
+    terrainDetailDensityScale: 0.141
+    terrainBasemapDistance: 795
+    terrainDetailDistance: 119
+    terrainTreeDistance: 656
+    terrainBillboardStart: 226
+    terrainFadeLength: 23.5
+    terrainMaxTrees: 10000
     excludedTargetPlatforms: []
   m_TextureMipmapLimitGroupNames: []
   m_PerPlatformDefaultQuality:
