@@ -286,9 +286,9 @@ QualitySettings:
     customRenderPipeline: {fileID: 0}
     terrainQualityOverrides: 254
     terrainPixelError: 1
-    terrainDetailDensityScale: 0.141
-    terrainBasemapDistance: 525
-    terrainDetailDistance: 149
+    terrainDetailDensityScale: 0.131
+    terrainBasemapDistance: 326
+    terrainDetailDistance: 162
     terrainTreeDistance: 737
     terrainBillboardStart: 226
     terrainFadeLength: 200
