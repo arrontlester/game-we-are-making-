@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Project
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 46
+  controlID: 47
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -224,7 +224,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 47
+  controlID: 48
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -249,7 +249,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 48
+  controlID: 49
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -455,23 +455,23 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Materials
+    - Assets
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Materials
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Unity\game-we-are-making-\GameInProgress
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: 82810000
-    m_LastClickedID: 33154
-    m_ExpandedIDs: 00000000987f00009a7f00009c7f00009e7f0000a07f0000a27f0000a47f0000a67f0000a87f000000ca9a3bffffff7f
+    m_SelectedIDs: 5e800000
+    m_LastClickedID: 32862
+    m_ExpandedIDs: 000000005e80000060800000628000006480000066800000688000006a8000006c8000006e80000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -499,7 +499,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000987f00009a7f00009c7f00009e7f0000a07f0000a27f0000a47f0000a67f0000a87f0000
+    m_ExpandedIDs: 000000005e80000060800000628000006480000066800000688000006a8000006c8000006e800000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -639,9 +639,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 26bbffff
       m_LastClickedID: 0
-      m_ExpandedIDs: 9870feff28fbffffd67c0000
+      m_ExpandedIDs: 28fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1060,9 +1060,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 139.3677, y: 215.05553, z: 268.96338}
+    m_Target: {x: 957.5026, y: 763.9132, z: 1742.1418}
     speed: 2
-    m_Value: {x: 139.3677, y: 215.05553, z: 268.96338}
+    m_Value: {x: 957.5026, y: 763.9132, z: 1742.1418}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1108,13 +1108,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.024286998, y: -0.9117704, z: -0.04957356, w: 0.40782472}
+    m_Target: {x: -0.0052595725, y: -0.9233682, z: 0.38475215, w: -0.0082549015}
     speed: 2
-    m_Value: {x: -0.024965726, y: -0.9107665, z: -0.050886426, w: 0.40901315}
+    m_Value: {x: -0.0052452656, y: -0.9236032, z: 0.38322514, w: -0.00825972}
   m_Size:
-    m_Target: 39.185196
+    m_Target: 545.3211
     speed: 2
-    m_Value: 41.03162
+    m_Value: 521.8384
   m_Ortho:
     m_Target: 0
     speed: 2
