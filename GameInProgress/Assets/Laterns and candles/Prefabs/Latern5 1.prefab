@@ -201,7 +201,7 @@ Transform:
   - {fileID: 9143264983149472462}
   - {fileID: 4812033965826102381}
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 25.77, z: 0}
 --- !u!1 &5654889973819806160
 GameObject:
@@ -396,7 +396,7 @@ MonoBehaviour:
   m_Intensity: 99.729744
   m_EnableSpotReflector: 1
   m_LuxAtDistance: 1
-  m_InnerSpotPercent: 100
+  m_InnerSpotPercent: 85.8
   m_SpotIESCutoffPercent: 100
   m_LightDimmer: 1
   m_VolumetricDimmer: 1
